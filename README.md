@@ -15,6 +15,7 @@ Validation of EUREKA’s Effectiveness in Hexapod Rough-Terrain Locomotion
 2. 학습은 오픈소스 DIY 모델을 단순화한 3D 모델링을 활용한다.
 3. 성능 향상에 대한 척도는 전진 속도(Forward Velocity)로 한정한다.
 4. 강화학습 하이퍼파라미터는 본 EUREKA 연구와 동일하게 설정한다.
+5. LLM 모델은 GPT-4o를 활용한다.
 
 ---
 

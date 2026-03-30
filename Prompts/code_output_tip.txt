@@ -1,0 +1,10 @@
+The output of the reward consist of three items:
+    (1) the reward_scale variables,
+    (2) a dictionary of each individual reward component
+    (3) a list of each individual reward component you made before
+The code output should be formatted as a python code string: "```python ... ```".
+
+Some helpful tips for writing the reward code:
+    (1) You **must** use the variables in _get_rewards function. Do not use any torch. in spite of given variables. The #reward_scales and #rewards part will be inserted in _get_reward function
+    (2) You must insert **8 spaces** indentation in front of every lines from #reward_scales to before #keys.
+    (3) You must insert **12 spaces** indentation in front of every lines from the line #keys

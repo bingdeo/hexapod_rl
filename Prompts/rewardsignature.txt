@@ -1,0 +1,16 @@
+ 
+
+        #reward_scales(8 space indentation from here)
+        exmple_scale = ...
+
+        #rewards
+        rewards = {
+        "example_reward": ... * example_scale * self.step_dt,
+        ...
+        }
+
+            #keys(12 space indentation from here)
+            for key in[
+            "example_reward",
+            ...
+            ]
