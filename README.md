@@ -29,10 +29,4 @@ Validation of EUREKA’s Effectiveness in Hexapod Rough-Terrain Locomotion
     <img src='Picture/2D Model.png' width='40%'/>
     <img src='Picture/3D Model(origin).png' width='40%'/>
   </div>
-  
-  <br/><br/>
-  
-  <div style="display: flex; justify-content: center;">
-    <img src='Picture/3D Model(sim).png' width='50%'/>
-  </div>
 </div>
